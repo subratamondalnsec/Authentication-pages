@@ -31,7 +31,7 @@ const SignInPage = ({ onLoginSuccess }) => {
         Lorem ipsum dolor sit amet, consectetur adipiscing elit,
       </p>
 
-      <form onSubmit={handleSubmit} className="space-y-4 ">
+      <form onSubmit={handleSubmit} className="space-y-5 ">
         <InputField
           label="Email Address"
           type="email"

@@ -10,7 +10,7 @@ const AccountSettingsPage = () => {
       <div className="p-4 rounded-md flex items-center gap-4 mb-4 relative">
         <div className="relative">
           <img
-            src="https://res.cloudinary.com/daibbnr3y/image/upload/v1755848197/personal_photo2_a32poy.jpg"
+            src="profilephoto.jpg"
             alt="profile"
             className="profile-photo"
           />
@@ -29,8 +29,8 @@ const AccountSettingsPage = () => {
           ></div>
         </div>
         <div>
-          <p className="font-bold text-gray-800">Subrata Mondal</p>
-          <p className="text-gray-600 text-sm">subrata24012005@gmail.com</p>
+          <p className="font-bold text-gray-800">Marry Doe</p>
+          <p className="text-gray-600 text-sm">Marry@Gmail.Com</p>
         </div>
       </div>
 

@@ -34,7 +34,7 @@ const CreateAccountPage = ({ onAccountCreated }) => {
         Create your PopX account
       </h1>
 
-      <form onSubmit={handleSubmit} className="space-y-1">
+      <form onSubmit={handleSubmit} className="space-y-5">
         <InputField
           label="Full Name"
           name="fullName"
