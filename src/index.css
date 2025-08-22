@@ -7,3 +7,20 @@
 body {
   font-family: 'Rubik', sans-serif;
 }
+
+/* Profile Photo Styling */
+.profile-photo {
+  width: 76px;
+  height: 76px;
+  background: transparent;
+  opacity: 1;
+  border-radius: 50%;
+}
+
+.camera-icon {
+  width: 21px;
+  height: 23px;
+  background: transparent url('/camera.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  cursor: pointer;
+}
