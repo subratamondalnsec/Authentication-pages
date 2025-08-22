@@ -9,8 +9,8 @@ A modern, responsive authentication system built with React, Vite, and TailwindC
 
 ## 🌐 Live Demo
 
-- **Live Application**: https://authentication-page-ecru.vercel.app/
-- **Repository**: https://github.com/your-username/AuthenticationPage
+- **Live Application**: https://authentication-pages-three.vercel.app/
+- **Repository**: https://github.com/subratamondalnsec/Authentication-pages
 
 ## 📱 Features
 
@@ -245,7 +245,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Subrata Mondal**
 - Email: subrata24012005@gmail.com
-- GitHub: [@your-github-username](https://github.com/your-github-username)
+- GitHub: [@subratamondalnsec](https://github.com/subratamondalnsec)
 
 ## 🙏 Acknowledgments
 
